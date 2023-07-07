@@ -1,6 +1,7 @@
 # League-of-Legends-Jungle-Tracker
 League of Legends Jungle Tracker
 
+link to the video while running: https://www.dropbox.com/sh/fxq0ve3kf7624fl/AABOvnakiOvxeAwenl5rXWUDa?dl=0 
 
 needed screen resolution: 2556x1440
 needed scaling: 150%
