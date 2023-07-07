@@ -1,29 +1,32 @@
-
 League of Legends Jungle Tracker
 
-Link to the video while running
+An Undetectable League of Legends Script
+
+The distinguishing feature of this League of Legends script is its undetectability. This is primarily attributed to its method of operation, which involves solely examining pixels, performing basic mathematical operations, and presenting the resulting decisions on a separate display window. It is important to note that this script does not overlay or directly interact with the game interface, thereby eliminating any risk of account bans.
+
+
+Video Link: https://www.dropbox.com/sh/fxq0ve3kf7624fl/AABOvnakiOvxeAwenl5rXWUDa?dl=0
 
 Requirements:
 
 Window: Borderless Mode (between fullscreen and window)
-Screen resolution: 2556x1440
+Screen Resolution: 2556x1440
 Scaling: 150%
-Map size: 69
-
-
+Map Size: 69
 Instructions:
 
-This tool helps you track the enemy jungler in League of Legends using a pixel bot.
-If you have a different monitor resolution, follow these steps to set it up:
-Enter a practice tool game and take screenshots of all the champions on the map.
-Use a snipping tool to capture the champion you want to track in the future.
-Only capture the inner part of the map icon without the blue color (ignore if it's red).
-Save the screenshot as "m" followed by the name of the champion, for example, "mMaster.png" for Master Yi (can also be mMasterYI or whatever, that's your choice).
-Start the script and enter the PNG name of the champion you want to track without "m" (like you named it).
-Press the "Start" button.
-The script will search for the champion icon on the map and track their movements.
+This tool serves the purpose of tracking the movements of the enemy jungler in League of Legends using a pixel bot. If your monitor resolution differs from the specified requirements, please follow these steps to set it up:
 
-Note: This tool is specifically designed for League of Legends jungle tracking. It automates the process by analyzing pixels on the screen.
+Enter a practice tool game and capture screenshots of all the champions displayed on the map.
+Utilize a snipping tool to capture the specific champion you wish to track in future instances.
+When capturing the champion's icon, exclude the blue color and focus solely on the inner part of the icon (disregard if the icon is red).
+Save the screenshot with the prefix "m" followed by the champion's name, for instance, "mMaster.png" for Master Yi (alternatively, "mMasterYI" or any preferred naming convention).
+Initiate the script and input the PNG filename of the champion you wish to track, excluding the "m" prefix (as per your chosen naming convention).
+Press the "Start" button to commence the tracking process.
+The script will search for the champion's icon on the map and monitor their movements.
+Note: This tool is specifically designed for tracking enemy junglers in League of Legends. Its functionality relies on pixel analysis, automating the tracking process.
+
+
 
 
 1. the interface
@@ -40,7 +43,14 @@ Note: This tool is specifically designed for League of Legends jungle tracking. 
 
 
 
-Note:
-While enemy jungler is still visible on the map, the second screen will update itself every 2 seconds until the jungler is gone. the power behind this script is to always know where the jungler is estimated.
-tracking the jungler in higher elos is one of the most important things there is to crush your opponents!
+Use Case:
 
+In the context of strategic gameplay, the secondary screen dynamically refreshes every 2 seconds as long as the enemy jungler remains visible on the map. The underlying function of this script is to provide constant updates regarding the estimated location of the jungler. In higher-ranked matches, adeptly tracking the movements of the jungler stands as a crucial element to decisively overcome adversaries.
+
+
+
+Note:
+
+Updates and improvements to this script will only be provided if there is significant demand from users. Additionally, it is important to clarify that this script will always remain freely accessible and will not be subjected to any form of payment requirement.
+
+Please be aware that using this script carries potential risks, including the possibility of account bans. As the creator of this script, I cannot accept responsibility for any negative consequences that may arise from its usage, including account suspensions or bans. It is recommended to exercise caution and adhere to the terms of service set forth by the game.
