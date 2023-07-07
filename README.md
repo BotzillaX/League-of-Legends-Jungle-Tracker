@@ -1,21 +1,29 @@
-# League-of-Legends-Jungle-Tracker
+
 League of Legends Jungle Tracker
 
-link to the video while running: https://www.dropbox.com/sh/fxq0ve3kf7624fl/AABOvnakiOvxeAwenl5rXWUDa?dl=0 
+Link to the video while running
 
-needed screen resolution: 2556x1440
-needed scaling: 150%
+Requirements:
+
+Window: Borderless Mode (between fullscreen and window)
+Screen resolution: 2556x1440
+Scaling: 150%
 Map size: 69
 
-info:
-if you play on a different kind of monitor (resolution), in order to make the script work, go to a practice tool game and make individual screenshots of all the champions via map.
-snipping tool, make yourself the champion you wanna track in future days, screenshot only the inner part of the map icon without blue color (only if its red you can ignore it) and safe under "m"+nameOfTheChampion.
-after changing the picture, make sure to start the script, write the png name and then press start.
 
-example: 
-mMaster.png is for master yi.
-Master or master into search box and press start.
-script is now looking for master yi according to the icon you have or made
+Instructions:
+
+This tool helps you track the enemy jungler in League of Legends using a pixel bot.
+If you have a different monitor resolution, follow these steps to set it up:
+Enter a practice tool game and take screenshots of all the champions on the map.
+Use a snipping tool to capture the champion you want to track in the future.
+Only capture the inner part of the map icon without the blue color (ignore if it's red).
+Save the screenshot as "m" followed by the name of the champion, for example, "mMaster.png" for Master Yi (can also be mMasterYI or whatever, that's your choice).
+Start the script and enter the PNG name of the champion you want to track without "m" (like you named it).
+Press the "Start" button.
+The script will search for the champion icon on the map and track their movements.
+
+Note: This tool is specifically designed for League of Legends jungle tracking. It automates the process by analyzing pixels on the screen.
 
 
 1. the interface
@@ -28,4 +36,11 @@ script is now looking for master yi according to the icon you have or made
 4. keep the window on your second screen to see where the enemy jungler was last seen
 
 5. finished. now every time the enemy jungler shows up on the map, you'll have a screen of the last seconds he was visible before disappearig.
+
+
+
+
+Note:
+While enemy jungler is still visible on the map, the second screen will update itself every 2 seconds until the jungler is gone. the power behind this script is to always know where the jungler is estimated.
+tracking the jungler in higher elos is one of the most important things there is to crush your opponents!
 
